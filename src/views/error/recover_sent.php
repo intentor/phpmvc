@@ -1,0 +1,1 @@
+<?php echo LABEL_ERR_RECOVER; ?>

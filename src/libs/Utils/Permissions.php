@@ -1,0 +1,3 @@
+<?php
+//PERMISSIONS OF THE SYSTEM
+define('PERMISSION_ADMIN'	, 1);
